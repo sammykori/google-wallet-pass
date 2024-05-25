@@ -5,9 +5,8 @@
 
 This repository contains the code used for the tutorial on my <a href="">Youtube Channel</a>. Make sure to like and Subscribe and Check out my Account for more videos and Tutorial Code.
 
-<iframe align="center" width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
-</iframe>
+
+<video align="center" src='https://www.youtube.com/embed/tgbNymZ7vqY' width=180  />
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
